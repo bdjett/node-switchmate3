@@ -8,7 +8,7 @@
   ],
   "author": "Jackie Yang",
   "dependencies": {
-    "noble-device": ">=1.4.1"
+    "noble-device": "https://github.com/bdjett/noble-device.git"
   },
   "description": "A Node.js API for Switchmate3",
   "main": "index.js",
